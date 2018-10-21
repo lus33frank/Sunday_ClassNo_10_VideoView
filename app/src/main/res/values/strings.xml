@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">No:10_VideoView</string>
+    <string name="xml_button_text_start">Start</string>
+    <string name="xml_button_text_stop">Stop</string>
+</resources>
